@@ -1,4 +1,0 @@
-you can see we have a .pcap file. Files .pcap are files readen by WireShark.
-
-use scp -P 4242 level02@192.168.56.101:/home/user/level02/level02.pcap .
-to copy locally the file then use WireShark

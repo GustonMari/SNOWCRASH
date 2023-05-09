@@ -21,5 +21,3 @@ Then you will get:
 flag01:abcdefg
 
 1 password hash cracked, 0 left
-
-

@@ -25,3 +25,6 @@ So Show HEX dump --> 7f
 https://manpages.ubuntu.com/manpages/bionic/en/man7/ascii.7.html
 It s the DEL key, so we have ft_wandr minus 3 letters plus NDRel.L0L and delete l
 --> ft_waNDReL0L
+
+We can get the flag02 back !
+kooda2puivaav1idi4f57q8iq

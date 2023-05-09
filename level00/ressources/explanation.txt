@@ -16,6 +16,7 @@ which is similar to that of an unencrypted message,
 then the message has likely undergone a transposition (letter rearrangement) or monoalphabetic substitution
 (where a single letter can only be replaced by one other)."
 So we searched a simple encryption algorithm with transposition or monoalphabetic substitution, and we found the "code cesar"
+https://www.irif.fr/_media/users/ylg/crypto.pdf
 https://www.dcode.fr/chiffre-cesar
 Know we can decrypt our text using the "code cesar" --> nottoohardhere
 

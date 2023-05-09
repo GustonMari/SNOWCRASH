@@ -19,9 +19,9 @@ https://www.wireshark.org/docs/wsug_html_chunked/ChAdvFollowStreamSection.html
 
 
 We have this : Password: ft_wandr...NDRel.L0L
-Non-printable characters are replaced by dots so we have to see what is the ...
+Non-printable characters are replaced by dots so we have to see what is the ... and the .
 
 So Show HEX dump --> 7f
 https://manpages.ubuntu.com/manpages/bionic/en/man7/ascii.7.html
-It s the DEL key, so we have ft_wandr minus 3 letters plus NDRel.L0L
---> ft_waNDRel.L0L
+It s the DEL key, so we have ft_wandr minus 3 letters plus NDRel.L0L and delete l
+--> ft_waNDReL0L

@@ -21,6 +21,12 @@ By providing /tmp/flaggood as an argument to the program, the intention is to tr
 Race conditions can lead to unexpected consequences and security vulnerabilities. They highlight the importance of proper synchronization and resource management in multi-process or multi-threaded programs to prevent unauthorized access or manipulation of shared resources.
 So here we have a unpredictable situatation where the race condition leads to get sometimes the password.
 
+We give the rights to the /home/user/level10 :
+So in /home/user/level10 :
+chmod 777 .
+
+And we create a script.sh to exploit this race condition explained above.
+
 Then we have something like this on our "Server" :
 .*( )*.
 .*( )*.
